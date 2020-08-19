@@ -23,8 +23,10 @@ The original image data set from Kaggle has 3 folders; train, val and test. Howe
 As I train the model on my own laptop (MacBook Pro 15-inch 2015) using CPU, it took about 10 hours? (As I went to sleep when it was training, so not sure the exact time). 
 
 The model achieved 99.69% accuracy on training set and 76.79% accuracy on validation set.
+
 **Training:**
 ![Alt Text](https://github.com/lxy000719/ResNet-50-pneumonia-classification/blob/master/image/Screenshot%202020-08-19%20at%202.29.49%20PM.png)
+
 **Validation**
 ![Alt Text](https://github.com/lxy000719/ResNet-50-pneumonia-classification/blob/master/image/Screenshot%202020-08-19%20at%202.38.44%20PM.png)
 
